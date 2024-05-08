@@ -1,0 +1,36 @@
+TATA Punch EV Specifications:
+
+Car Name: TATA Punch EV
+
+Features (Key Highlights):
+- Electric Vehicle (EV) Technology
+- Touchscreen Infotainment System
+- Apple CarPlay and Android Auto
+- Connected Car Technology
+- Dual-zone Climate Control
+- Panoramic Sunroof
+- Safety Features: ABS, EBD, ESC, Hill Hold Assist, etc.
+
+Engine:
+- Type: Electric Motor
+- Power: Up to 100 kW
+- Torque: Up to 230 Nm
+
+Battery:
+- Type: Lithium-ion
+- Capacity: 30 kWh
+- Range: Up to 300 km (estimated)
+
+Charging:
+- AC Charging: Up to 7.4 kW
+- DC Fast Charging: Up to 50 kW
+
+Dimensions:
+- Length: 3840 mm
+- Width: 1670 mm
+- Height: 1565 mm
+- Wheelbase: 2450 mm
+- Ground Clearance: 190 mm
+
+Car Number (MH Pune):
+- Randomly Generated: MH12YY5678
